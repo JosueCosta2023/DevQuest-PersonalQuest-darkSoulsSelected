@@ -1,5 +1,6 @@
 # DevQuest - JavaScript Intermediário
 ## Quest #Pessoal
+### [Deploy]('https://josuecosta2023.github.io/darkSoulsPersonSelected/')
 * Baseado no projeto MAPA DEV WEEK, do curso Devquest.
 * Aplicação de todos os conceitos apresentados em aula.
 
