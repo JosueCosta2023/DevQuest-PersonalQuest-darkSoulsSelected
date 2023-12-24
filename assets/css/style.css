@@ -52,10 +52,13 @@
 .container-personagem .titulo-logo{
     font-size: 56px;
     margin-bottom: 60px;
+    font-family: 'darkSoul' sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 .container-personagem .titulo-detalhes{
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .container-personagem .lista-de-personagens{
