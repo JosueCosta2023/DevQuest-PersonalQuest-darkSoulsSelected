@@ -1,5 +1,7 @@
 # DevQuest - JavaScript Intermediário
 ## Quest #Pessoal
+* Baseado no projeto MAPA DEV WEEK, do curso Devquest.
+* Aplicação de todos os conceitos apresentados em aula.
 
 
 # Desafio: Lista de seleção de personagem
